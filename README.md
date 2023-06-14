@@ -3,10 +3,12 @@ Implementation of the GUIDE framework for Inductive Graph Unlearning, just accep
 
 ## Installation
 
-`git clone https://github.com/Happy2Git/GUIDE.git
-cd GUIDE
-mamba env create -n GUIDE -f environment.yml
-mkdir data checkpoints`
+```
+git clone https://github.com/Happy2Git/GUIDE.git  
+cd GUIDE  
+mamba env create -n GUIDE -f environment.yml  
+mkdir data checkpoints
+```
 
 ## Usage
 See 'inductive_BTC.ipynb' and inductive_BTC_abalation.ipynb'
