@@ -14,5 +14,4 @@ mkdir data checkpoints
 See 'inductive_BTC.ipynb' and inductive_BTC_abalation.ipynb'
 
 ## Contact
-Provide contact information for the project owners/maintainers. For example:
 -   Cheng-Long Wang - X.Y@Z where X = chenglong, Y = wang and Z = kaust.edu.sa
