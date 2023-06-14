@@ -1,0 +1,13 @@
+dependencies:
+  - python=3.9
+  - numpy
+  - pytorch::pytorch=1.10.2
+  - pytorch::torchvision
+  - pytorch::torchaudio
+  - cudatoolkit=11.3
+  - pyg::pyg
+  - pandas
+  - matplotlib
+  - ipykernel
+  - ipywidgets
+  - gdown
